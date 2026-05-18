@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Gambil",
+    "slug": "gambil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": { "backgroundColor": "#0A0A0F" },
+    "ios":     { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#0A0A0F" } },
+    "web":     { "bundler": "metro" }
+  }
+}
